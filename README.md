@@ -28,6 +28,5 @@ $ python scanner.py
 ## Author
 - Odayturkeyzsec
 ```
-```
 ## Contacts
 Telegram : [t.me/odayturkeyzsec](https://t.me/odayturkeyzsec)
