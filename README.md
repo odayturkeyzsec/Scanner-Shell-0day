@@ -3,7 +3,7 @@ Scanner Shell Accuration 100% And Full Direktory
 
 Contact Me : https://t.me/odayturkeyzsec
 
-Wordpress, Journal, All Custome Content Management System [CMS]
+Direktory Wordpress, Journal, Joomla All Custome Content Management System [CMS]
 
 A shell scanner is a tool used to identify and detect malicious code, often referred to as a shell, that has been uploaded onto a web server. The tool works by searching through directories and files on the server for specific strings or paths that are commonly associated with malicious code.
 
