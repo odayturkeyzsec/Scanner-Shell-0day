@@ -13,11 +13,12 @@ A shell scanner is a tool used to identify and detect malicious code, often refe
 - Python 3.10.2 
 ## Supported Os
 - Linuxer
-- Wingays
+- Windows
 ## Get start with
 ```
 $ pip install requests
 $ pip install selenium
+$ pip install colorama
 $ git clone https://github.com/odayturkeyzsec/Scanner-Shell-0day/
 $ cd Scanner-Shell-0day
 $ python scanner.py
